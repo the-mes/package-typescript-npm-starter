@@ -1,11 +1,11 @@
 {
-  "name": "s-trimmer",
+  "name": "<PACKAGE_SLUG_NAME_HERE>",
   "version": "1.0.0",
-  "description": "Format spaces from the left and right end of a string and between strings",
-  "author": "Jakub Biesiada",
+  "description": "<DESCRIPTION_HERE>",
+  "author": "<AUTHOR_HERE>",
   "license": "MIT",
-  "main": "lib/s-trimmer.cjs.js",
-  "module": "lib/s-trimmer.esm.js",
+  "main": "lib/<PACKAGE_SLUG_NAME_HERE>.cjs.js",
+  "module": "lib/<PACKAGE_SLUG_NAME_HERE>.esm.js",
   "types": "lib/index.d.ts",
   "scripts": {
     "prepack": "npm run clean && npm run prettier && npm run lint && npm run build",
@@ -21,21 +21,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JB1905/s-trimmer.git"
+    "url": "https://github.com/<USER_OR_ORGANIZATION_NAME_HERE>/<REPO_NAME_HERE>.git"
   },
   "keywords": [
-    "string",
-    "trim",
-    "spaces",
-    "start",
-    "end",
-    "between",
-    "format"
+    "<KEYWORD_HERE>",
+    "<KEYWORD_HERE>",
+    "<KEYWORD_HERE>",
+    "<KEYWORD_HERE>",
+    "<KEYWORD_HERE>"
   ],
   "bugs": {
-    "url": "https://github.com/JB1905/s-trimmer/issues"
+    "url": "https://github.com/<USER_OR_ORGANIZATION_NAME_HERE>/<REPO_NAME_HERE>/issues"
   },
-  "homepage": "https://github.com/JB1905/s-trimmer#readme",
+  "homepage": "https://github.com/<USER_OR_ORGANIZATION_NAME_HERE>/<REPO_NAME_HERE>#readme",
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^11.0.0",
     "@types/jest": "^26.0.19",

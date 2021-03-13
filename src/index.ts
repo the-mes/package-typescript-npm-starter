@@ -1,5 +1,5 @@
-const sTrimmer = (value: string) => {
-  return value.trim().split(/\s+/).join(' ');
+const sum = (a: number, b: number) => {
+  return a + b;
 };
 
-export default sTrimmer;
+export default sum;

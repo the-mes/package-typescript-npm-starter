@@ -1,7 +1,7 @@
-# s-trimmer Changelog
+# <PACKAGE_SLUG_NAME_HERE> Changelog
 
-## 1.0.0 (2020-06-19)
+## 1.0.0 (<DATE_HERE>)
 
 #### New Feature
 
-- added `sTrimmer` function
+- added `<MODULE_HERE>` function

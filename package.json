@@ -1,11 +1,11 @@
 {
-  "name": "<PACKAGE_SLUG_NAME_HERE>",
+  "name": "package-typescript-npm-starter",
   "version": "1.0.0",
-  "description": "<DESCRIPTION_HERE>",
-  "author": "<AUTHOR_HERE>",
+  "description": "Template for npm TypeScript module",
+  "author": "Jakub Biesiada",
   "license": "MIT",
-  "main": "lib/<PACKAGE_SLUG_NAME_HERE>.cjs.js",
-  "module": "lib/<PACKAGE_SLUG_NAME_HERE>.esm.js",
+  "main": "lib/package-typescript-npm-starter.cjs.js",
+  "module": "lib/package-typescript-npm-starter.esm.js",
   "types": "lib/index.d.ts",
   "scripts": {
     "prepack": "npm run clean && npm run prettier && npm run lint && npm run build",
@@ -21,19 +21,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/<USER_OR_ORGANIZATION_NAME_HERE>/<REPO_NAME_HERE>.git"
+    "url": "https://github.com/the-mes/package-typescript-npm-starter.git"
   },
   "keywords": [
-    "<KEYWORD_HERE>",
-    "<KEYWORD_HERE>",
-    "<KEYWORD_HERE>",
-    "<KEYWORD_HERE>",
-    "<KEYWORD_HERE>"
+    "npm",
+    "package",
+    "boilerplate",
+    "library",
+    "typescript",
+    "module",
+    "starter"
   ],
   "bugs": {
-    "url": "https://github.com/<USER_OR_ORGANIZATION_NAME_HERE>/<REPO_NAME_HERE>/issues"
+    "url": "https://github.com/the-mes/package-typescript-npm-starter/issues"
   },
-  "homepage": "https://github.com/<USER_OR_ORGANIZATION_NAME_HERE>/<REPO_NAME_HERE>#readme",
+  "homepage": "https://github.com/the-mes/package-typescript-npm-starter#readme",
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^11.0.0",
     "@types/jest": "^26.0.19",

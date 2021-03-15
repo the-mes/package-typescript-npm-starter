@@ -1,7 +1,7 @@
-# <PACKAGE_SLUG_NAME_HERE> Changelog
+# Package TypeScript npm starter Changelog
 
-## 1.0.0 (<DATE_HERE>)
+## 1.0.0 (2020-02-02)
 
 #### New Feature
 
-- added `<MODULE_HERE>` function
+- added `sum` function

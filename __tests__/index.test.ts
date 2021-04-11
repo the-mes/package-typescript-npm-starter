@@ -7,7 +7,7 @@ describe('sum', () => {
     [3, 3, 6],
     [0, 0, 0],
     [522, 11, 533],
-  ])('sholud add two numbers: %d, %d', (a, b, expected) => {
+  ])('should add two numbers: %d, %d', (a, b, expected) => {
     const result = sum(a, b);
 
     expect(result).toBe(expected);

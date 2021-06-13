@@ -52,9 +52,9 @@ const result = sum(2, 3); // 5
 
 ### Params
 
-| Type              | Description              |
-| ----------------- | ------------------------ |
-| number | First number |
+| Type   | Description   |
+| ------ | ------------- |
+| number | First number  |
 | number | Second number |
 
 ## License

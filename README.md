@@ -4,29 +4,30 @@
 [![NPM downloads](https://img.shields.io/npm/dm/package-typescript-npm-starter?style=flat-square)](https://www.npmjs.com/package/package-typescript-npm-starter)
 [![NPM license](https://img.shields.io/npm/l/package-typescript-npm-starter?style=flat-square)](https://www.npmjs.com/package/package-typescript-npm-starter)
 [![Codecov](https://img.shields.io/codecov/c/github/the-mes/package-typescript-npm-starter?style=flat-square)](https://codecov.io/gh/the-mes/package-typescript-npm-starter)
-[![Travis](https://img.shields.io/travis/the-mes/package-typescript-npm-starter/master?style=flat-square)](https://travis-ci.org/the-mes/package-typescript-npm-starter)
+[![Travis](https://img.shields.io/travis/com/the-mes/package-typescript-npm-starter/main?style=flat-square)](https://travis-ci.com/the-mes/package-typescript-npm-starter)
 [![Bundle size](https://img.shields.io/bundlephobia/min/package-typescript-npm-starter?style=flat-square)](https://bundlephobia.com/result?p=s-trimmer)
 
 ## About
 
 Template for npm TypeScript module
 
-### Similar Projects
+### Similar Projects / Alternatives / Idea
 
-- [Similar Project](https://example.com/) by [John Doe](https://example.com/)
+- [example](#) by [John Doe](#)
+- [example-2](#) by [Jane Doe](#)
 
 ## How to Install
 
 First, install the library in your project by npm:
 
 ```sh
-$ npm install package-typescript-npm-starter
+npm install package-typescript-npm-starter
 ```
 
 Or Yarn:
 
 ```sh
-$ yarn add package-typescript-npm-starter
+yarn add package-typescript-npm-starter
 ```
 
 ## Getting Started
@@ -34,22 +35,18 @@ $ yarn add package-typescript-npm-starter
 **Connect libary to project using ES6 import:**
 
 ```js
-// TODO replace with correct name
 import sum from 'package-typescript-npm-starter';
 ```
 
 **Or CommonJS:**
 
 ```js
-// TODO replace with correct name
 const sum = require('package-typescript-npm-starter');
 ```
 
 Next use library:
 
 ```js
-// TODO replace with correct example
-
 const result = sum(2, 3); // 5
 ```
 
@@ -57,7 +54,8 @@ const result = sum(2, 3); // 5
 
 | Type              | Description              |
 | ----------------- | ------------------------ |
-| <PARAM_TYPE_HERE> | <PARAM_DESCRIPTION_HERE> |
+| number | First number |
+| number | Second number |
 
 ## License
 

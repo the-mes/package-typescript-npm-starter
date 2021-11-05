@@ -4,7 +4,7 @@
 [![NPM downloads](https://img.shields.io/npm/dm/package-typescript-npm-starter?style=flat-square)](https://www.npmjs.com/package/package-typescript-npm-starter)
 [![NPM license](https://img.shields.io/npm/l/package-typescript-npm-starter?style=flat-square)](https://www.npmjs.com/package/package-typescript-npm-starter)
 [![Codecov](https://img.shields.io/codecov/c/github/the-mes/package-typescript-npm-starter?style=flat-square)](https://codecov.io/gh/the-mes/package-typescript-npm-starter)
-[![Travis](https://img.shields.io/travis/com/the-mes/package-typescript-npm-starter/main?style=flat-square)](https://travis-ci.com/the-mes/package-typescript-npm-starter)
+[![Travis](https://img.shields.io/travis/com/the-mes/package-typescript-npm-starter/main?style=flat-square)](https://app.travis-ci.com/the-mes/package-typescript-npm-starter)
 [![Bundle size](https://img.shields.io/bundlephobia/min/package-typescript-npm-starter?style=flat-square)](https://bundlephobia.com/result?p=s-trimmer)
 
 ## About
